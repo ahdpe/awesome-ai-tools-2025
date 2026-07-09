@@ -60,6 +60,7 @@
 ## 🎨 AI UI/UX Tools
 - [Gradio](https://gradio.app/) – быстрый UI для ML-моделей.  
 - [Streamlit](https://streamlit.io/) – создание ML-прототипов и веб-приложений.  
+- [BidSharp](https://bidsharp.io/) - AI-powered proposal intelligence platform with automated critiques, risk scanners, and pricing calculators.
 
 ---
 
