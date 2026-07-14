@@ -4,6 +4,8 @@
 [![Stars](https://img.shields.io/github/stars/YOUR_HANDLE/awesome-ai-tools-2025.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
 
+> **Новая версия:** [Awesome AI Tools 2026](https://github.com/ahdpe/awesome-ai-tools-2026) — 80 отобранных инструментов, 10 категорий, English + Русский.
+
 > Подборка лучших AI-инструментов, библиотек и сервисов 2025 года.  
 > Фокус: **LLM**, генеративный ИИ, MLOps, SDK и утилиты для разработчиков.  
 
