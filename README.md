@@ -60,6 +60,7 @@
 ---
 
 ## 🎨 AI UI/UX Tools
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - [Gradio](https://gradio.app/) – быстрый UI для ML-моделей.  
 - [Streamlit](https://streamlit.io/) – создание ML-прототипов и веб-приложений.  
 
