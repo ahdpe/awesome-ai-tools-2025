@@ -18,6 +18,7 @@
 - [Datasets](#-datasets)
 - [DevOps для AI](#-devops-для-ai)
 - [AI UI/UX Tools](#-ai-uiux-tools)
+- [AI Audio & Voice](#-ai-audio--voice)
 - [Как контрибьютить](#-как-контрибьютить)
 - [Лицензия](#-лицензия)
 
@@ -60,9 +61,13 @@
 ---
 
 ## 🎨 AI UI/UX Tools
-- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - [Gradio](https://gradio.app/) – быстрый UI для ML-моделей.  
 - [Streamlit](https://streamlit.io/) – создание ML-прототипов и веб-приложений.  
+
+---
+
+## 🎙️ AI Audio & Voice
+- [CharaVox](https://charavox.com) – генерация персонажных голосов, клонирование голоса и студийный TTS на 6 языках; работает на базе VoxCPM.  
 
 ---
 
