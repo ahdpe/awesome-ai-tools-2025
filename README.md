@@ -73,7 +73,7 @@
 ---
 
 ## ✍️ AI Writing & Content
-- [WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/) - Free browser-based AI story generator with prompt, genre, tone, and length controls; no sign-up required.
+- [WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/) – бесплатный браузерный генератор историй с настройками промпта, жанра, тона и длины; регистрация не требуется.  
 
 ---
 
