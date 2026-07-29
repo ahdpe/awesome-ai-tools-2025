@@ -19,6 +19,7 @@
 - [DevOps для AI](#-devops-для-ai)
 - [AI UI/UX Tools](#-ai-uiux-tools)
 - [AI Audio & Voice](#-ai-audio--voice)
+- [AI Writing & Content](#-ai-writing--content)
 - [Как контрибьютить](#-как-контрибьютить)
 - [Лицензия](#-лицензия)
 
@@ -68,6 +69,11 @@
 
 ## 🎙️ AI Audio & Voice
 - [CharaVox](https://charavox.com) – генерация персонажных голосов, клонирование голоса и студийный TTS на 6 языках; работает на базе VoxCPM.  
+
+---
+
+## ✍️ AI Writing & Content
+- [WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/) - Free browser-based AI story generator with prompt, genre, tone, and length controls; no sign-up required.
 
 ---
 
