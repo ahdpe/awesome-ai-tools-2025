@@ -58,6 +58,7 @@
 - [MLflow](https://mlflow.org/) – управление ML-жизненным циклом.  
 - [ClearML](https://clear.ml/) – платформа для MLOps.  
 - [LangSmith](https://www.langchain.com/langsmith) – отладка и мониторинг LLM-цепочек.  
+- [Agent QA](https://github.com/vostride/agent-qa) – source-available QA-инструмент для регрессионных web- и mobile-тестов на естественном языке; есть CLI, dashboard и MCP-сервер. ПО доступно без лицензионной платы для разрешённого использования, но модели и внешние провайдеры могут стоить денег.
 
 ---
 
