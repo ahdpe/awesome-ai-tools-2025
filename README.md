@@ -92,3 +92,7 @@
 ---
 
 ⭐ Если тебе полезен этот список — поставь звезду и помоги проекту расти!
+
+## API Gateways
+- [APIClaw](https://apiclaw.biz) - Flat-rate OpenAI-compatible gateway for Claude, GPT, Kimi, Qwen, DeepSeek, and GLM models.
+- 
